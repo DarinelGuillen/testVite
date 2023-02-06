@@ -1,0 +1,15 @@
+Widge{
+    background-color: aqua;
+}
+h3{
+    color: rgba(57, 218, 221, 0.721);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.099);
+}
+button{
+    background-color: rgb(0, 0, 0);
+    color: rgb(24, 215, 183);
+    
+}

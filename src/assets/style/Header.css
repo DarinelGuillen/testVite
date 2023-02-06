@@ -1,0 +1,12 @@
+header{
+    border: 3px rgb(11, 253, 253) double;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 4px;
+    background-color: brown;
+}
+img{
+    width: 30px;
+    height: 30px;
+    
+}

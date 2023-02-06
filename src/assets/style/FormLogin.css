@@ -1,0 +1,19 @@
+form{
+    background-color: rgb(14, 13, 13);
+    color: aliceblue;
+    
+}
+button{
+    background-color: rgb(213, 47, 47);
+    color: aqua;
+    font-size: larger;
+}
+div{
+    padding-top: 10%;
+    
+    border: 3px rgb(11, 253, 253) double;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 4px;
+    background-color: rgb(19, 211, 25);
+}
